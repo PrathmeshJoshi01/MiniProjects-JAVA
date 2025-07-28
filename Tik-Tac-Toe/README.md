@@ -111,14 +111,7 @@ or
 It's a draw! Thanks for playing.
 ```
 
----
 
-## 📝 License
-
-This project is released under the MIT License.
-You are free to use, modify, and distribute it.
-
----
 
 ## 🙋‍♂️ Author
 
@@ -130,8 +123,3 @@ Passionate Java developer | Open to feedback and contributions
 
 *If you liked this project, feel free to ⭐️ the repository and share it!*
 
-```
-
----
-
-```
